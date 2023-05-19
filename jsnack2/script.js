@@ -17,3 +17,5 @@ if ( isNameFound === true){
 
 
 //console.log (userName);
+
+//correzione di Riccardo uguale al nostro esercizio
